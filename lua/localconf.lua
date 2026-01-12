@@ -35,7 +35,8 @@ vim.g.clipboard = false
 vim.opt.background = "dark"
 
 -- vim.cmd.colorscheme "catppuccin-mocha"
-vim.cmd.colorscheme "bluloco-dark"
+-- vim.cmd.colorscheme "bluloco-dark"
+vim.cmd.colorscheme "doom-one"
 --
 -- vim.cmd[[highlight Normal guibg=none]]
 -- vim.cmd[[highlight NonText guibg=none]]
